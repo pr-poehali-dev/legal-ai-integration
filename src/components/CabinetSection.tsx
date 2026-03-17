@@ -39,7 +39,7 @@ export default function CabinetSection() {
                 </div>
                 <div className="absolute bottom-0 right-0 w-5 h-5 rounded-full bg-green-400 border-2 border-background pulse-dot" />
               </div>
-              <h3 className="font-display text-xl font-bold text-foreground mb-1">Александр Иванов</h3>
+              <h3 className="font-display text-xl font-bold text-foreground mb-1">Дроздов Денис</h3>
               <p className="font-body text-xs text-muted-foreground mb-3">Юрист · Специалист по строительным спорам</p>
               <span className="tag-badge status-new">Pro-доступ</span>
 
